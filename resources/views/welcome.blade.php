@@ -95,7 +95,7 @@
 
 
 
-<!-- Script for Sidebar, Tabs, Accordions, Progress bars and slideshows -->
+<!-- side navigation -->
 <script>
 // Side navigation
 function w3_open() {
